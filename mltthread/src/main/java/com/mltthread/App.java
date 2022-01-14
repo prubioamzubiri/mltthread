@@ -14,7 +14,7 @@ public final class App {
 
         while(true)
         {
-            new Thread1(2).start();           
+            new Thread1().start();           
         }
     }
 
